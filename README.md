@@ -1,2 +1,2 @@
 # vtu-app
-This is a mobile app for banking activities
+This is a mobile appp
